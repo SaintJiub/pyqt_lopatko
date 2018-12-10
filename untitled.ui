@@ -33,10 +33,10 @@
    <widget class="QPushButton" name="cutButton">
     <property name="geometry">
      <rect>
-      <x>680</x>
+      <x>370</x>
       <y>490</y>
-      <width>201</width>
-      <height>91</height>
+      <width>211</width>
+      <height>21</height>
      </rect>
     </property>
     <property name="text">
@@ -64,6 +64,19 @@
     </property>
     <property name="text">
      <string>import</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="coord">
+    <property name="geometry">
+     <rect>
+      <x>610</x>
+      <y>490</y>
+      <width>311</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
     </property>
    </widget>
   </widget>
